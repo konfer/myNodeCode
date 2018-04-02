@@ -1,0 +1,22 @@
+{
+  "name": "nodecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/konfer/myNodeCode.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "konfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konfer/myNodeCode/issues"
+  },
+  "homepage": "https://github.com/konfer/myNodeCode#readme"
+}
